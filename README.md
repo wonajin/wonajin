@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi ✨ Here is ajin's Github
 
 <a href="①버튼을 눌렀을 때 이동할 링크" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
